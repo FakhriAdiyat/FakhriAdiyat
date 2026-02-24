@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kamu Bang Dream kita berkawan 👋
 <img src="https://media1.tenor.com/m/z8E1tEO9-NAAAAAC/bandori-ave-mujica.gif" width="300"/>
 <!--
 **FakhriAdiyat/FakhriAdiyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
