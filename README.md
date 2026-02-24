@@ -1,5 +1,5 @@
 ## Kamu Bang Dream kita berkawan 👋
-<img src="https://media1.tenor.com/m/z8E1tEO9-NAAAAAC/bandori-ave-mujica.gif" width="400"/>
+<img src="https://media1.tenor.com/m/z8E1tEO9-NAAAAAC/bandori-ave-mujica.gi](https://media1.tenor.com/m/HvDuGx-Ls30AAAAd/nyamu-yuutenji-nyamuchi.gif" width="400"/>
 <!--
 **FakhriAdiyat/FakhriAdiyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
