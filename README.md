@@ -2,7 +2,7 @@ About Me
 
 <img src="https://media1.tenor.com/m/HvDuGx-Ls30AAAAd/nyamu-yuutenji-nyamuchi.gif" width="400"/>
 
-Ampun puh aku masih pemula.
+Aku masih pemula.
 <!--
 **FakhriAdiyat/FakhriAdiyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
