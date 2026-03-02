@@ -1,6 +1,6 @@
 About Me 
 
-<img src="https://media1.tenor.com/m/HvDuGx-Ls30AAAAd/nyamu-yuutenji-nyamuchi.gif" width="400"/>
+<img src="https://media1.tenor.com/m/E4fkvoGXqWkAAAAC/anime-bandori.gif" width="400"/>
 
 Aku masih pemula.
 <!--
