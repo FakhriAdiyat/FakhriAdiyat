@@ -2,7 +2,7 @@ About Me
 
 <img src="https://media1.tenor.com/m/PrCSb-2AsVAAAAAC/ave-mujica-nyamuchi.gif" width="500"/>
 
-Aku masih pemula.
+Aku masih belajar.
 <!--
 **FakhriAdiyat/FakhriAdiyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
