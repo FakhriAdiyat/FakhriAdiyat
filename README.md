@@ -1,6 +1,6 @@
 About Me 
 
-<img src="https://tenor.com/view/bandori-ave-mujica-yuutenji-nyamu-cqnbody-gif-14970305684703148240" width="500"/>
+<img src="https://media1.tenor.com/m/z8E1tEO9-NAAAAAC/bandori-ave-mujica.gif" width="500"/>
 
 Aku masih belajar.
 <!--
