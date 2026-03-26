@@ -1,6 +1,6 @@
 About Me 
 
-<img src="https://media1.tenor.com/m/GZWzGaPUmxsAAAAC/bandori-bang-dream.gif" width="500"/>
+<img src="https://media1.tenor.com/m/GZWzGaPUmxsAAAAC/bandori-bang-dream.gif" width="450"/>
 
 Aku masih belajar.
 <!--
